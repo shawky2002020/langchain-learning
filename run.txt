@@ -1,0 +1,4 @@
+.venv/Scripts/langgraph dev
+.venv/Scripts/python main.py
+
+To install ipython: .venv/Scripts/python -m pip install ipython
