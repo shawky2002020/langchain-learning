@@ -1,7 +1,7 @@
 {
   "dependencies": ["."],
   "graphs": {
-    "agent": "./graphs/tasks/t5.py:app"
+    "agent": "./agents/ReAct.py:app"
   },
   "env": ".env"
 }
